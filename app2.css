@@ -1,0 +1,15 @@
+img {
+width: 400px;
+}
+
+div#first-section {
+	color: red;
+}
+
+div#body {
+	background-color: pink;
+}
+
+div#second-section {
+	color: green;
+}
